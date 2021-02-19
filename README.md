@@ -1,4 +1,4 @@
-# muruga-bhavan.github.io
+# kurukshetra-task.github.io
 
 Kurukshetra Coordinator Recruitment Task
 
