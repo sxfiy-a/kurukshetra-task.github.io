@@ -1,0 +1,68 @@
+body {
+  font-family: "Avenir Next";
+}
+
+li {
+  list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+#header-logo {
+    font-size: 30px;
+}
+
+#header-list {
+    font-size: 30px;
+}
+#more {
+    display: none;
+}
+#read-btn {
+    text-align: center;
+}
+
+#landing-content {
+  background-image: url('food-pics/landingpagebg.jpg');
+  background-repeat: repeat-y;
+  background-attachment: fixed;
+  background-size:100%;
+  height: 100%;
+}
+
+
+/* about us page css */
+
+
+
+
+
+#about-us-header {
+    
+    background-image: url('food-pics/aboutusbg.jpg');
+    background-attachment: fixed;
+    height: 100%;
+    background-size: 100%;
+    background-repeat: repeat-y;
+}
+
+
+.about-us-text  {
+    font-family: "Playfair Display";    
+    text-align: center;
+    line-height: 1.8;
+    margin-left: 150px; 
+    margin-right: 150px;
+}
+
+.about-us-text h2 {
+    font-size: 45px;
+    letter-spacing: 5px;
+}
+
+.about-us-text p {
+    font-size: 30px;
+
+}
